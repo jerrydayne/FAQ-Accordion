@@ -25,7 +25,7 @@ const questions = [
   },
   {
     id: 5,
-    title: 'yhis is going to be good yeah?',
+    title: 'this is going to be good yeah?',
     info:
       'Locavore franzen fashion axe live-edge neutra irony synth af tilde shabby chic man braid chillwave waistcoat copper mug messenger bag. Banjo snackwave blog, microdosing thundercats migas vaporware viral lo-fi seitan ',
   },
